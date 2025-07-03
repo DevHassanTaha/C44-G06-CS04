@@ -220,27 +220,27 @@ namespace Assignment_04
 
 
             #region 16- Create a program that asks the user to input three points (x1, y1), (x2, y2), and(x3, y3), and determines whether these points lie on a single straight line.
-            Console.WriteLine("enter x1");
-            double x1 = double.Parse(Console.ReadLine());
+            //Console.WriteLine("enter x1");
+            //double x1 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("enter y1");
-            double y1 = double.Parse(Console.ReadLine());
+            //Console.WriteLine("enter y1");
+            //double y1 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("enter x2");
-            double x2 = double.Parse(Console.ReadLine());
+            //Console.WriteLine("enter x2");
+            //double x2 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("enter y2");
-            double y2 = double.Parse(Console.ReadLine());
+            //Console.WriteLine("enter y2");
+            //double y2 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("enter x3");
-            double x3 = double.Parse(Console.ReadLine());
+            //Console.WriteLine("enter x3");
+            //double x3 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("enter y3");
-            double y3 = double.Parse(Console.ReadLine());
+            //Console.WriteLine("enter y3");
+            //double y3 = double.Parse(Console.ReadLine());
 
-            bool isCollinear = (y2 - y1) * (x3 - x2) == (y3 - y2) * (x2 - x1);
-            string result = (isCollinear) ? "Points are on a straight line" : "Not on a straight line";
-            Console.WriteLine(result);
+            //bool isCollinear = (y2 - y1) * (x3 - x2) == (y3 - y2) * (x2 - x1);
+            //string result = (isCollinear) ? "Points are on a straight line" : "Not on a straight line";
+            //Console.WriteLine(result);
             #endregion
 
             #region 17- Within a company, the efficiency of workers is evaluated based on the duration required to complete a specific task.A worker's efficiency level is determined as follows:
