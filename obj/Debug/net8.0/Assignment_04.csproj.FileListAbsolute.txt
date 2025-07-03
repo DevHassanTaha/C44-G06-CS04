@@ -1,0 +1,14 @@
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\bin\Debug\net8.0\Assignment_04.exe
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\bin\Debug\net8.0\Assignment_04.deps.json
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\bin\Debug\net8.0\Assignment_04.runtimeconfig.json
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\bin\Debug\net8.0\Assignment_04.dll
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\bin\Debug\net8.0\Assignment_04.pdb
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\obj\Debug\net8.0\Assignment_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\obj\Debug\net8.0\Assignment_04.AssemblyInfoInputs.cache
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\obj\Debug\net8.0\Assignment_04.AssemblyInfo.cs
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\obj\Debug\net8.0\Assignment_04.csproj.CoreCompileInputs.cache
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\obj\Debug\net8.0\Assignment_04.dll
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\obj\Debug\net8.0\refint\Assignment_04.dll
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\obj\Debug\net8.0\Assignment_04.pdb
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\obj\Debug\net8.0\Assignment_04.genruntimeconfig.cache
+C:\Users\Js\Downloads\c#\Assignment_04\Assignment_04\obj\Debug\net8.0\ref\Assignment_04.dll
